@@ -1,2 +1,0 @@
-webpackJsonp([60335399758886],{77:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Basebit - a turnkey, crypto exchange as a service platform"}}},layoutContext:{}}}});
-//# sourceMappingURL=path----05b43a8fd65acac98bef.js.map
