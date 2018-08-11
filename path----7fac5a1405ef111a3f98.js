@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{77:function(t,e){t.exports={data:{site:{siteMetadata:{title:"Basebit - a turnkey, crypto exchange as a service platform",siteUrl:"https://basebit.io",description:"Don't spend a fortune. Don't waste precious time. Basebit allows you to start operating a secure crypto exchange in a matter of hours.",keywords:"crypto, exchange, platform"}}},layoutContext:{}}}});
+//# sourceMappingURL=path----7fac5a1405ef111a3f98.js.map
